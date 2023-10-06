@@ -7,7 +7,7 @@
 ![Logo UPC](https://th.bing.com/th/id/OIP.uI-98YWzIvsuhXVyKRkv9gHaHk?pid=ImgDet&rs=1)
 ---
 
-#### Trabajo Parcial
+## Trabajo Parcial
 
 **Alumnos**:
 - Alcides Rommel Charapaqui Reluz - u202021294
