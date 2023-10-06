@@ -1,3 +1,6 @@
 # TP_MachineLearning
 
-Integrantes: 
+Integrantes:
+Diego Quispe
+Alcides Rommel Charapaqui Reluz u202021294
+
