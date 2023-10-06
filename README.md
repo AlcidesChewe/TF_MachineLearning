@@ -5,6 +5,8 @@
 
 ### CARRERA PROFESIONAL DE CIENCIAS DE LA COMPUTACIÓN
 
+
+![Logo UPC]([URL_de_tu_imagen](https://cdn.discordapp.com/attachments/1039700190162071572/1044441066599891005/indice.jpg?ex=652df30b&is=651b7e0b&hm=6a3957a6f39e83834414ab18c8929e14526bd6963649051160a5c1a7899c519e&))
 ---
 
 #### Trabajo Parcial
