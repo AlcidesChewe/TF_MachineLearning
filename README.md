@@ -59,5 +59,5 @@
 
 ---
 
-![Diagrama](https://imgur.com/SS9nwjo)
+![Diagrama](https://cdn.discordapp.com/attachments/1159637113541759146/1177698207573217341/ditfFBumg.png?ex=657373ed&is=6560feed&hm=34de3fbebdc0412c6828b66c2e16a1daab1f50b30790425c72acc220a1bdba57&)
 
