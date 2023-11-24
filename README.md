@@ -67,7 +67,7 @@ La transformación y procesamiento de modelos 3D comienza con modelos en formato
 
 A continuación, los BinVoxels se utilizan como entrada para una Red Generativa Antagónica (GAN), que procesa los datos y genera un nuevo modelo 3D en formato Bin Voxels. Este nuevo modelo generado se convierte finalmente al formato .STL, que es un estándar comúnmente utilizado para la impresión 3D y otras aplicaciones de modelado 3D.
 
-![Vizualización del stl](https://cdn.discordapp.com/attachments/1159637113541759146/1177718836770914355/image.png?ex=65738723&is=65611223&hm=3fbd08b8c756779662e92f9dcf7124ddd6bfe5e2c3a3bdbe463f00adaeb0348e&)
+![Vizualización del stl](https://cdn.discordapp.com/attachments/1159637113541759146/1177720245608267806/bed_0001_0.5_-0.5_0_3.png?ex=65738873&is=65611373&hm=382008d12db50d9675c04b8dfa49d0c91a2cf0725c42332a6123e6dc6d98de93&)
 
 
 
