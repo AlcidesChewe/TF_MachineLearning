@@ -70,3 +70,4 @@ A continuación, los BinVoxels se utilizan como entrada para una Red Generativa 
 ![Vizualización del stl](https://cdn.discordapp.com/attachments/1159637113541759146/1177718836770914355/image.png?ex=65738723&is=65611223&hm=3fbd08b8c756779662e92f9dcf7124ddd6bfe5e2c3a3bdbe463f00adaeb0348e&)
 
 
+
