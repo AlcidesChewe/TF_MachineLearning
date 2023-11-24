@@ -59,5 +59,5 @@
 
 ---
 
-![Diagrama](https://imgur.com/a/Tqsrl8K)
+![Diagrama](https://imgur.com/SS9nwjo)
 
